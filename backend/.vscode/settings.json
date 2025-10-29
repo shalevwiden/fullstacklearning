@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/Users/shalevwiden/Downloads/Coding_Files/Python/flask/flask_virtual/bin/python3",
+
+  "code-runner.executorMap": {
+    "python": "/Users/shalevwiden/Downloads/Coding_Files/Python/flask/flask_virtual/bin/python3"
+  }
+}
